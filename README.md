@@ -13,9 +13,9 @@ A modern, reactive, and highly interactive Todo application built with the **TAL
 
 ## 🛠️ Technical Implementation
 
-* **Backend:** Laravel 12.x
-* **Frontend Logic:** Livewire 3.x
-* **Styling:** Tailwind CSS 3.x
+* **Backend:** Laravel 12.48.1
+* **Frontend Logic:** Livewire 4.0.2
+* **Styling:** Tailwind CSS 4.1.18
 * **Database:** MySQL 8.x
 
 ## 🔧 Installation & Setup
